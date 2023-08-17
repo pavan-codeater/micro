@@ -1,0 +1,105 @@
+for Devops Training use ubuntu 20.04
+
+
+1) hostname
+
+2) whoami
+
+3) pwd
+
+4) ls -l ---> detailed review
+
+5) folder color- blue,files.txt -white
+
+6) :q ---> changes is not made
+
+7) :g --> last line
+
+8) :wq--> write and quit
+
+10) sudo apt-get install
+
+11) sudo apt-get update
+
+12) uptime
+
+13) sudo apt-get install nettools
+
+14) ifconfig
+
+15) netstat -plant
+
+16) grep        ----> just like regex operations
+
+17) free -g/-m   ----> memory information
+
+18) cat /proc/cpuinfo
+
+19) df -h  ----> Storage hard disk information 
+
+20) ps -ef ---> process running in a computer
+
+21) kill -9 pid
+
+22) top --> Complete Information 
+
+23) head red.txt
+
+24) rm -rf /vinay ---> vinay is folder(-rf is recursive function to delete)
+
+25) tar -cvf vinay.tar vinay    ||||| tar -xvf vinay.tar
+
+26) cp red.txt vinay/  ---> Copy command
+
+27) mv red.txt vinay/ ---> move command (for moving and renaming commands)
+
+28) touch .kumar || mv .kohil kohli
+
+29) ls -a
+
+30)sudo useradd vinay   
+
+31) sudo passwd vinay
+
+32) su vinay
+
+33) sudo su vinay
+
+34) du -sh dhoni ---> file/folder size
+
+file/folder permissions(owner,group,others)
+
+chmod 777 red.txt
+chown vinay:vinay red.txt
+
+
+35) sudo userdel vinay
+
+36) export MY=Vinay
+
+37) Unset My
+
+
+Token
+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
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
